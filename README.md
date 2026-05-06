@@ -12,7 +12,8 @@ Now I’m focused on automation, internal tools, and workflow optimization.
 🧰 Develop internal tools and small apps
 🔌 Create integrations and data-driven pipelines
 🧩 Featured Projects
-🎨 Photoshop UXP Batch Automation Plugin
+
+### 🎨 [Photoshop UXP Batch Automation Plugin](https://github.com/yourusername/photoshop-uxp-batch-mockup-plugin)
 
 Automates mockup generation by replacing content and exporting organized PNG outputs.
 

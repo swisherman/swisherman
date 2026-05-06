@@ -13,14 +13,14 @@ Now I’m focused on automation, internal tools, and workflow optimization.
 🔌 Create integrations and data-driven pipelines
 🧩 Featured Projects
 
-### 🎨 [Photoshop UXP Batch Automation Plugin](https://github.com/yourusername/photoshop-uxp-batch-mockup-plugin)
+### 🎨 [Photoshop UXP Batch Automation Plugin](https://github.com/swisherman/photoshop-uxp-batch-mockup-plugin)
 
 Automates mockup generation by replacing content and exporting organized PNG outputs.
 
-Batch text/image replacement
-JSON-driven workflow
-Group-based export logic
-File system integration (UXP APIs)
+- Batch text/image replacement
+- JSON-driven workflow
+- Group-based export logic
+- File system integration (UXP APIs)
 
 👉 Demonstrates real-world automation inside Photoshop
 

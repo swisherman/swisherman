@@ -11,7 +11,7 @@ Now I’m focused on automation, internal tools, and workflow optimization.
 🧠 Turn messy workflows into repeatable systems
 🧰 Develop internal tools and small apps
 🔌 Create integrations and data-driven pipelines
-🧩 Featured Projects
+## 🧩 Featured Projects
 
 ### 🎨 [Photoshop UXP Batch Automation Plugin](https://github.com/swisherman/photoshop-uxp-batch-mockup-plugin)
 

@@ -1,10 +1,60 @@
-👋 Hi, I’m Robert
+# 👋 Hi, I'm Robert
 
-I build practical software that automates real workflows.
+I build software that automates real-world workflows.
 
-After running an Etsy business focused on custom products, I began developing tools to eliminate repetitive tasks—batch processing, mockup generation, product data workflows, and internal utilities.
+After running an Etsy business focused on custom products, I began developing tools to eliminate repetitive work through automation, mockup generation, product data workflows, and internal business applications.
 
-Now I’m focused on automation, internal tools, and workflow optimization.
+Today I focus on:
+
+* Workflow automation
+* Internal tools and dashboards
+* Adobe Photoshop UXP development
+* ASP.NET Core APIs
+* MongoDB applications
+* Business process optimization
+
+## 🧩 Featured Projects
+
+### 🎨 [Photoshop UXP Batch Automation Plugin](https://github.com/swisherman/photoshop-uxp-batch-mockup-plugin)
+
+🔗 [View Repository](https://github.com/swisherman/photoshop-uxp-batch-mockup-plugin)
+
+Automates Photoshop mockup generation through PSD templates, smart object replacement, structured data imports, and batch PNG export.
+
+**Highlights**
+
+* Batch text and image replacement
+* JSON and MongoDB-backed workflows
+* Group-based export automation
+* File system integration using Adobe UXP APIs
+
+👉 Demonstrates workflow automation, file handling, and production tooling
+
+### 📦 Product Operations Manager
+
+MongoDB-backed business application for managing product records, workflow data, and operational processes.
+
+**Highlights**
+
+* Product CRUD operations
+* Search and filtering
+* Structured data management
+* MongoDB persistence
+
+👉 Demonstrates C#, Blazor, MongoDB, and internal business application development
+
+### 🔧 Mockup Workflow API Platform
+
+Backend services supporting automated file processing and mockup workflows.
+
+**Highlights**
+
+* Folder creation APIs
+* PNG upload/download services
+* Dockerized deployment
+* REST API architecture
+
+👉 Demonstrates backend development, Docker, and workflow orchestration
 
 🚀 What I Do
 ⚙️ Build automation tools that replace manual processes

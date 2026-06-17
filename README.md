@@ -17,7 +17,7 @@ Today I focus on:
 
 ### 🎨 [Photoshop UXP Batch Automation Plugin](https://github.com/swisherman/photoshop-uxp-batch-mockup-plugin)
 
-🔗 [View Repository](https://github.com/swisherman/photoshop-uxp-batch-mockup-plugin)
+**Tech:** JavaScript, Photoshop UXP, MongoDB
 
 Automates Photoshop mockup generation through PSD templates, smart object replacement, structured data imports, and batch PNG export.
 
@@ -30,20 +30,25 @@ Automates Photoshop mockup generation through PSD templates, smart object replac
 
 👉 Demonstrates workflow automation, file handling, and production tooling
 
-### 📦 Product Operations Manager
+### 📦 [Product Operations Manager](https://github.com/swisherman/ProductOperationsManager)
 
-MongoDB-backed business application for managing product records, workflow data, and operational processes.
+**Tech:** C#, Blazor, MongoDB
+
+MongoDB-backed business application for managing product records, catalog data, and operational workflows through a Blazor-based dashboard.
 
 **Highlights**
 
 * Product CRUD operations
 * Search and filtering
-* Structured data management
 * MongoDB persistence
+* Dashboard metrics and reporting
+* Structured business workflow management
 
-👉 Demonstrates C#, Blazor, MongoDB, and internal business application development
+👉 Demonstrates C#, ASP.NET Core, Blazor, MongoDB, and internal business application development
 
 ### 🔧 Mockup Workflow API Platform
+
+**Tech:** ASP.NET Core, Docker, MongoDB
 
 Backend services supporting automated file processing and mockup workflows.
 
@@ -56,89 +61,36 @@ Backend services supporting automated file processing and mockup workflows.
 
 👉 Demonstrates backend development, Docker, and workflow orchestration
 
-🚀 What I Do
-⚙️ Build automation tools that replace manual processes
-🧠 Turn messy workflows into repeatable systems
-🧰 Develop internal tools and small apps
-🔌 Create integrations and data-driven pipelines
-## 🧩 Featured Projects
+## 🧠 What I Focus On
 
-### 🎨 [Photoshop UXP Batch Automation Plugin](https://github.com/swisherman/photoshop-uxp-batch-mockup-plugin)
+* Workflow automation and scripting
+* Internal tools and business applications
+* Adobe Photoshop UXP development
+* ASP.NET Core APIs and backend services
+* MongoDB-backed applications
+* File processing and content generation pipelines
 
-🔗 [View Repository](https://github.com/swisherman/photoshop-uxp-batch-mockup-plugin)
+## 💼 Background
 
-Automates mockup generation by replacing content and exporting organized PNG outputs.
+Before focusing on software development, I built and operated an e-commerce business producing custom products.
 
-- Batch text/image replacement
-- JSON-driven workflow
-- Group-based export logic
-- File system integration (UXP APIs)
+Many of the tools in this portfolio originated from real operational challenges involving mockup generation, product management, workflow automation, and production efficiency.
 
-👉 Demonstrates real-world automation inside Photoshop
+That experience continues to influence how I approach software development: practical, reliable, and focused on solving real business problems.
 
-🗂️ MongoDB Product Manager App (In Progress)
+## 🛠️ Tech Stack
 
-Internal tool for managing product data and generating listing content.
+**Languages:** JavaScript, C#
 
-Add/edit/search product records
-Structured data workflows
-Export-ready outputs (JSON/text)
+**Frontend:** Blazor, HTML, CSS
 
-👉 Demonstrates full-stack internal tooling (C#, Blazor, MongoDB)
+**Backend & Data:** ASP.NET Core, MongoDB
 
-🛠️ Workflow Automation (Etsy / Shopify)
+**Tools:** Photoshop UXP, Docker, GitHub Actions
 
-Tools and scripts for:
+**Focus Areas:** Automation, workflow tooling, internal applications
 
-Generating product titles, tags, and descriptions
-Organizing mockup assets
-Streamlining listing workflows
+## 📬 Contact
 
-👉 Built from real business needs
-
-🧠 What I Focus On
-Automation & scripting (JavaScript, C#)
-Internal tools & dashboards
-Data-driven workflows
-API integrations
-File and content processing pipelines
-💼 Background
-
-I run an Etsy business where I design and produce custom engraved products.
-
-That experience shaped how I approach development:
-
-Reliability matters
-Manual work should be automated
-Tools should be simple and practical
-Output should be consistent and repeatable
-🛠️ Tech Stack
-Languages: JavaScript, C#
-Frontend: Blazor, HTML/CSS
-Backend/Data: MongoDB
-Tools: Photoshop UXP, GitHub Actions
-Focus: Automation, scripting, workflow tooling
-🎯 What I’m Looking For
-
-Remote or contract work involving:
-
-Automation development
-Internal tools
-Workflow optimization
-Scripting / integration work
-
-Especially interested in practical, non-mission-critical systems where the goal is improving workflows.
-
-📬 Contact
-GitHub: (you’re here)
-LinkedIn: (add your link)
-Email: (optional)
-🔥 What Makes Me Different
-
-I don’t just write code—I build tools that solve real operational problems.
-
-Everything here is based on:
-
-Real workflows
-Real constraints
-Real output
+* GitHub: [swisherman](https://github.com/swisherman)
+* LinkedIn: [Robert Walkama](https://www.linkedin.com/in/robert-walkama-0243923/)

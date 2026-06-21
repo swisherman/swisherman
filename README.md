@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Robert
 
-I build software that automates real-world workflows.
+I build software that automates business workflows and operational processes.
 
 After running an Etsy business focused on custom products, I began developing tools to eliminate repetitive work through automation, mockup generation, product data workflows, and internal business applications.
 
@@ -30,6 +30,24 @@ Automates Photoshop mockup generation through PSD templates, smart object replac
 
 👉 Demonstrates workflow automation, file handling, and production tooling
 
+
+### 💼 [Job Search Management Application](https://github.com/swisherman/JobSearchManagementApp)
+
+**Tech:** C#, ASP.NET Core, Blazor Server, MongoDB, MudBlazor
+
+Application for managing job applications, companies, interviews, projects, and supporting files through a centralized dashboard.
+
+**Highlights**
+
+* Application tracking
+* Interview scheduling
+* Project management
+* Dashboard analytics
+* MongoDB persistence
+
+👉 Demonstrates CRUD application development, dashboard design, reporting, and workflow management
+
+
 ### 📦 [Product Operations Manager](https://github.com/swisherman/ProductOperationsManager)
 
 **Tech:** C#, Blazor, MongoDB
@@ -46,20 +64,21 @@ MongoDB-backed business application for managing product records, catalog data, 
 
 👉 Demonstrates C#, ASP.NET Core, Blazor, MongoDB, and internal business application development
 
-### 🔧 Mockup Workflow API Platform
+### 🔧 [FolderCreator API](https://github.com/swisherman/FolderCreator.API)
 
-**Tech:** ASP.NET Core, Docker, MongoDB
+**Tech:** ASP.NET Core, Docker
 
-Backend services supporting automated file processing and mockup workflows.
+REST API for generating sanitized folder structures from structured workflow data.
 
 **Highlights**
 
-* Folder creation APIs
-* PNG upload/download services
-* Dockerized deployment
-* REST API architecture
+* Folder creation endpoints
+* Input sanitization
+* Safe path handling
+* Docker-ready deployment
+* Workflow automation support
 
-👉 Demonstrates backend development, Docker, and workflow orchestration
+👉 Demonstrates ASP.NET Core API development, file-system automation, and backend workflow tooling
 
 ## 🧠 What I Focus On
 

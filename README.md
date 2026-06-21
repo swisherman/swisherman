@@ -88,6 +88,7 @@ REST API for generating sanitized folder structures from structured workflow dat
 * ASP.NET Core APIs and backend services
 * MongoDB-backed applications
 * File processing and content generation pipelines
+* Dockerized services and deployment workflows
 
 ## 💼 Background
 
@@ -105,7 +106,7 @@ That experience continues to influence how I approach software development: prac
 
 **Backend & Data:** ASP.NET Core, MongoDB
 
-**Tools:** Photoshop UXP, Docker, GitHub Actions
+**Tools:** Photoshop UXP, Docker, GitHub, GitHub Actions
 
 **Focus Areas:** Automation, workflow tooling, internal applications
 

@@ -30,6 +30,21 @@ Automates Photoshop mockup generation through PSD templates, smart object replac
 
 👉 Demonstrates workflow automation, file handling, and production tooling
 
+### 📦 [Product Operations Manager](https://github.com/swisherman/ProductOperationsManager)
+
+**Tech:** C#, Blazor, MongoDB
+
+MongoDB-backed business application for managing product records, catalog data, and operational workflows through a Blazor-based dashboard.
+
+**Highlights**
+
+* Product CRUD operations
+* Search and filtering
+* MongoDB persistence
+* Dashboard metrics and reporting
+* Structured business workflow management
+
+👉 Demonstrates C#, ASP.NET Core, Blazor, MongoDB, and internal business application development
 
 ### 💼 [Job Search Management Application](https://github.com/swisherman/JobSearchManagementApp)
 
@@ -48,21 +63,6 @@ Application for managing job applications, companies, interviews, projects, and 
 👉 Demonstrates CRUD application development, dashboard design, reporting, and workflow management
 
 
-### 📦 [Product Operations Manager](https://github.com/swisherman/ProductOperationsManager)
-
-**Tech:** C#, Blazor, MongoDB
-
-MongoDB-backed business application for managing product records, catalog data, and operational workflows through a Blazor-based dashboard.
-
-**Highlights**
-
-* Product CRUD operations
-* Search and filtering
-* MongoDB persistence
-* Dashboard metrics and reporting
-* Structured business workflow management
-
-👉 Demonstrates C#, ASP.NET Core, Blazor, MongoDB, and internal business application development
 
 ### 🔧 [FolderCreator API](https://github.com/swisherman/FolderCreator.API)
 

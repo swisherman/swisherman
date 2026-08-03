@@ -6,6 +6,8 @@
        width="220">
 </p>
 
+Software developer specializing in workflow automation, internal business applications, and creative production systems.
+
 I build software that automates business workflows and operational processes.
 
 After running an Etsy business focused on custom products, I began developing tools to eliminate repetitive work through automation, mockup generation, product data workflows, and internal business applications.

@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Robert
 
+<p align="center">
+  <img src="images/profile-photo.png"
+       alt="Robert Walkama"
+       width="220">
+</p>
+
 I build software that automates business workflows and operational processes.
 
 After running an Etsy business focused on custom products, I began developing tools to eliminate repetitive work through automation, mockup generation, product data workflows, and internal business applications.

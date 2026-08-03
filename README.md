@@ -8,8 +8,6 @@
 
 Software developer specializing in workflow automation, internal business applications, and creative production systems.
 
-I build software that automates business workflows and operational processes.
-
 After running an Etsy business focused on custom products, I began developing tools to eliminate repetitive work through automation, mockup generation, product data workflows, and internal business applications.
 
 Today I focus on:
@@ -23,80 +21,95 @@ Today I focus on:
 
 ## 🧩 Featured Projects
 
-### 🎨 [Photoshop UXP Batch Automation Plugin](https://github.com/swisherman/photoshop-uxp-batch-mockup-plugin)
+The projects below highlight a complete workflow automation platform, along with business applications that demonstrate full-stack software engineering, distributed systems, and production automation.
 
-**Tech:** JavaScript, Photoshop UXP, MongoDB
+---
 
-Automates Photoshop mockup generation through PSD templates, smart object replacement, structured data imports, and batch PNG export.
+### 🚀 [Mockup Workflow Platform](https://github.com/swisherman/MockupWorkflow.Platform)
+
+**Tech:** ASP.NET Core, Blazor, MongoDB, Docker, Adobe Photoshop UXP
+
+An end-to-end workflow automation platform for creative production. The platform integrates multiple services into configurable workflows for asset generation, mockup production, workflow orchestration, and administrative management.
 
 **Highlights**
 
-* Batch text and image replacement
-* JSON and MongoDB-backed workflows
-* Group-based export automation
-* File system integration using Adobe UXP APIs
+* Distributed service architecture
+* Workflow automation pipelines
+* Docker-based deployment
+* MongoDB-backed workflow management
+* Integration with Adobe Photoshop UXP
 
-👉 Demonstrates workflow automation, file handling, and production tooling
+👉 Demonstrates software architecture, distributed systems, workflow automation, and full-stack development.
+
+---
+
+### ⚙️ [Photoshop Automation API](https://github.com/swisherman/PhotoshopAutomation.Api)
+
+**Tech:** ASP.NET Core, MongoDB, REST APIs
+
+Coordinates workflow execution, batch processing, and communication between the administration dashboard, Photoshop plugin, and supporting services.
+
+👉 Demonstrates REST API design, workflow orchestration, and backend architecture.
+
+---
+
+### 🖥️ [Mockup Workflow Admin](https://github.com/swisherman/MockupWorkflow.Admin)
+
+**Tech:** Blazor Server, MudBlazor, ASP.NET Core
+
+Administrative dashboard for monitoring workflow batches, processing status, and automation operations across the platform.
+
+👉 Demonstrates dashboard development, Blazor, and operational tooling.
+
+---
+
+### 🎨 [Photoshop UXP Batch Automation Plugin](https://github.com/swisherman/photoshop-uxp-batch-mockup-plugin)
+
+**Tech:** JavaScript, Adobe Photoshop UXP, MongoDB
+
+Automates Photoshop mockup generation through PSD templates, smart object replacement, structured data imports, and batch processing workflows.
+
+👉 Demonstrates Adobe Photoshop UXP development, workflow automation, and production tooling.
+
+---
+
+### 📁 [PNGAPI](https://github.com/swisherman/PNGAPI)
+
+**Tech:** ASP.NET Core, Blazor, Docker
+
+Asset management service for storing, browsing, and serving workflow assets used throughout the Mockup Workflow Platform.
+
+👉 Demonstrates REST APIs, file management, and supporting infrastructure.
+
+---
+
+### 🔧 [FolderCreator.API](https://github.com/swisherman/FolderCreator.API)
+
+**Tech:** ASP.NET Core, Docker
+
+REST API for generating standardized workflow folder structures from structured input data.
+
+👉 Demonstrates backend services, file-system automation, and workflow preparation.
+
+---
 
 ### 📦 [Product Operations Manager](https://github.com/swisherman/ProductOperationsManager)
 
 **Tech:** C#, Blazor, MongoDB
 
-MongoDB-backed business application for managing product records, catalog data, and operational workflows through a Blazor-based dashboard.
+Business application for managing product catalogs, operational workflows, and reporting through a Blazor dashboard.
 
-**Highlights**
+👉 Demonstrates business application development, CRUD operations, reporting, and MongoDB integration.
 
-* Product CRUD operations
-* Search and filtering
-* MongoDB persistence
-* Dashboard metrics and reporting
-* Structured business workflow management
-
-👉 Demonstrates C#, ASP.NET Core, Blazor, MongoDB, and internal business application development
+---
 
 ### 💼 [Job Search Management Application](https://github.com/swisherman/JobSearchManagementApp)
 
 **Tech:** C#, ASP.NET Core, Blazor Server, MongoDB, MudBlazor
 
-Application for managing job applications, companies, interviews, projects, and supporting files through a centralized dashboard.
+Application for organizing job applications, interviews, companies, projects, and supporting documents through a centralized dashboard.
 
-**Highlights**
-
-* Application tracking
-* Interview scheduling
-* Project management
-* Dashboard analytics
-* MongoDB persistence
-
-👉 Demonstrates CRUD application development, dashboard design, reporting, and workflow management
-
-
-
-### 🔧 [FolderCreator API](https://github.com/swisherman/FolderCreator.API)
-
-**Tech:** ASP.NET Core, Docker
-
-REST API for generating sanitized folder structures from structured workflow data.
-
-**Highlights**
-
-* Folder creation endpoints
-* Input sanitization
-* Safe path handling
-* Docker-ready deployment
-* Workflow automation support
-
-👉 Demonstrates ASP.NET Core API development, file-system automation, and backend workflow tooling
-
-## 🧠 What I Focus On
-
-* Workflow automation and scripting
-* Internal tools and business applications
-* Adobe Photoshop UXP development
-* ASP.NET Core APIs and backend services
-* MongoDB-backed applications
-* File processing and content generation pipelines
-* Dockerized services and deployment workflows
+👉 Demonstrates full-stack application development, dashboard design, and workflow management.
 
 ## 💼 Background
 
@@ -110,14 +123,13 @@ That experience continues to influence how I approach software development: prac
 
 **Languages:** JavaScript, C#
 
-**Frontend:** Blazor, HTML, CSS
+**Frameworks:** ASP.NET Core, Blazor, Adobe Photoshop UXP
 
-**Backend & Data:** ASP.NET Core, MongoDB
+**Databases:** MongoDB
 
-**Tools:** Photoshop UXP, Docker, GitHub, GitHub Actions
+**Tools:** Docker, GitHub, GitHub Actions
 
-**Focus Areas:** Automation, workflow tooling, internal applications
-
+**Specialties:** Workflow automation, distributed systems, internal business applications
 ## 📬 Contact
 
 * GitHub: [swisherman](https://github.com/swisherman)
